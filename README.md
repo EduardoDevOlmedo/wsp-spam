@@ -18,12 +18,6 @@ Este es un pequeño script que te permite automatizar el envío de mensajes en W
    - Copia todo el código que se encuentra en [ws-spam.js](ws-spam.js).
    - No copies el archivo [dev-ws-spam.ts](dev-ws-spam.ts). De lo contrario no funcionara.
 
-   - Copia todo el código que se encuentra en [ws-spam.js](ws-spam.js).
-   - No copies el archivo [dev-ws-spam.ts](dev-ws-spam.ts). De lo contrario no funcionara.
-
-   - Copia todo el código que se encuentra en [este archivo](ws-spam.js).
-   - No copies el archivo [este archivo](dev-ws-spam.ts). De lo contrario no funcionara.
-
 2. **Abrir WhatsApp Web:**
 
    - Asegúrate de que WhatsApp Web esté abierto en tu navegador y que hayas iniciado una conversación.
@@ -60,7 +54,7 @@ Para colaborar sigue las guidelines:
 El archivo dev-wsp-spam.ts contiene notaciones en TypeScript para desarrolladores.
 El archivo wsp-spam.js es el archivo JavaScript que se ejecuta en el navegador.
 
-Pasos para Colaborar
+### Pasos para Colaborar
 
 Clona el repositorio.
 
