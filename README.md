@@ -1,6 +1,11 @@
 
 ---
 
+# SCRIPT ORIGINAL
+
+Este script esta basado en el repositorio de Matt-fontes (Repo)[https://github.com/Matt-Fontes/SendScriptWhatsApp]
+
+
 # EnviarScriptWhatsApp
 
 Este es un pequeño script que te permite automatizar el envío de mensajes en WhatsApp Web. 
