@@ -49,10 +49,10 @@ if (!document.querySelector('.buttons_container')) {
     go = true;
     
     stopButton.textContent = "Detener proceso";
-    if (lastLine === '') return;
     if(resumeButton.textContent === "Iniciar de nuevo"){
         enviarScript(text);
     } else {
+        if (lastLine === '') return;
         enviarScript(lastLine);
     }
     resumeButton.textContent = "Ejecutando proceso...";
