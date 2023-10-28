@@ -3,7 +3,11 @@
 
 # EnviarScriptWhatsApp
 
+<<<<<<< HEAD
 Este es un pequeño script que te permite automatizar el envío de mensajes en WhatsApp Web. 
+=======
+Este es un pequeño script que te permite automatizar el envío de mensajes en WhatsApp Web. Asegúrate de usarlo de manera responsable y respetuosa. 
+>>>>>>> f9269f6b28c7be1d5588aced38469f0436d679fe
 
 ## Requisitos
 
@@ -14,8 +18,13 @@ Este es un pequeño script que te permite automatizar el envío de mensajes en W
 
 1. **Preparación:**
 
+<<<<<<< HEAD
    - Copia todo el código que se encuentra en [ws-spam.js](ws-spam.js).
    - No copies el archivo [dev-ws-spam.ts](dev-ws-spam.ts). De lo contrario no funcionara.
+=======
+   - Copia todo el código que se encuentra en [este archivo](ws-spam.js).
+   - No copies el archivo [este archivo](dev-ws-spam.ts). De lo contrario no funcionara.
+>>>>>>> f9269f6b28c7be1d5588aced38469f0436d679fe
 
 2. **Abrir WhatsApp Web:**
 
